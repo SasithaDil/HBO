@@ -7,9 +7,9 @@ target 'HBONEW' do
 
   # Pods for HBONEW
 
- pod 'Firebase/Analytics'
- pod 'Firebase/Auth'
- pod 'Firebase/Core'
- pod 'Firebase/Firestore'
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+pod 'Firebase/Firestore'
+pod 'Firebase/Core'
 
 end
